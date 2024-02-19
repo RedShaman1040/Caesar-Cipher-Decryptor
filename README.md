@@ -2,11 +2,7 @@
 This Python application provides a graphical user interface (GUI) for decrypting text encrypted with the Caesar cipher. Users can enter the encrypted text and the shift value, and the program will display the decrypted text.
 
 ### Instalation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/caesar-cipher-decryptor.git
-   ```
-2. Install the required libraries:
+1. Install the required libraries:
    ```bash
    pip install tk
    ```
